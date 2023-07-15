@@ -12,6 +12,7 @@ This is a full stack chat application built with Next.js 13, Upstash Redis as th
 ## Technologies Used
 
 - Next.js 13: A React framework for building server-side rendered and statically generated applications.
+- NextAuth: An authentication library for Next.js applications.
 - Upstash Redis: A cloud-hosted Redis database-as-a-service.
 - React: A JavaScript library for building user interfaces.
 - TypeScript: A statically-typed superset of JavaScript.
